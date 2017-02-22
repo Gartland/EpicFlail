@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Rope.js">
+    <Files>
+      <File FileName="Assets\TestCube.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\Android\AndroidManifest-Cardboard.xml" Line="1" Column="1" />
+      <File FileName="Assets\Flail.cs" Line="1" Column="1" />
+      <File FileName="Assets\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\HitStun.cs" Line="1" Column="1" />
+      <File FileName="Assets\Rope.js" Line="32" Column="26" />
+      <File FileName="Assets\TubeRenderer.js" Line="11" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
