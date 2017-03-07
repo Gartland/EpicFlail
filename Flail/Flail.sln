@@ -1,11 +1,11 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{AC0CDEBA-CFE7-5AFF-FCFE-2794B7144FB0}") = "Flail", "Assembly-CSharp-firstpass.csproj", "{157E6026-DD78-A004-DCFD-BE62E07B5570}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flail", "Assembly-CSharp-firstpass.csproj", "{157E6026-DD78-A004-DCFD-BE62E07B5570}"
 EndProject
-Project("{AC0CDEBA-CFE7-5AFF-FCFE-2794B7144FB0}") = "Flail", "Assembly-CSharp.csproj", "{BE240FE5-C641-2312-7D57-2287B3D6DA20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flail", "Assembly-CSharp.csproj", "{BE240FE5-C641-2312-7D57-2287B3D6DA20}"
 EndProject
-Project("{AC0CDEBA-CFE7-5AFF-FCFE-2794B7144FB0}") = "Flail", "Assembly-CSharp-Editor.csproj", "{1771CC06-14A0-BF61-F990-DB48C9C5904C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flail", "Assembly-CSharp-Editor.csproj", "{1771CC06-14A0-BF61-F990-DB48C9C5904C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
